@@ -1,4 +1,4 @@
-# Document Q&A Assistant
+# Simple Agent
 
 Ask questions about your own documents. Upload PDF, DOCX, TXT or Markdown files, and the assistant answers using only what it finds in them, citing the source file (and page number for PDFs).
 
